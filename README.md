@@ -23,7 +23,9 @@ CentOS:
 Windows:
 
     git clone https://github.com/breakwa11/shadowsocks.git
+Docker:
 
+    docker build -t ssr/ssr .
 ### Usage for single user on linux platform
 
 If you clone it into "~/shadowsocks"  
